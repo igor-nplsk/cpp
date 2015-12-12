@@ -159,6 +159,7 @@ int main()
 		cout << "4. Exit" << endl;
 
 		cin >> choice;
+
 		switch (choice)
 		{
 		case 1:
