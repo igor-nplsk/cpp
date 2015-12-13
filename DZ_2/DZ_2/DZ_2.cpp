@@ -191,6 +191,7 @@ int main()
 				  //String2 str1 = str;                           // эта операция запрещена (функция удалена)
 				  //String2 str2;
 				  //str2 = str1;                                  // эта операция запрещена (функция удалена)
+
 				  cout << "Error!String2 str1 = str; - it is a deleted function." << endl;
 				  cout << "Error!String2 str2; str1 = str; - it is a deleted function." << endl << endl;
 
